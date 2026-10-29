@@ -4,7 +4,7 @@
 
 **An interactive, canvas-rendered ASCII wordmark that reacts to your cursor, scatters on click, drops like candy from a pumpkin, and pulls itself back together.**
 
-[![Live Demo](https://img.shields.io/badge/🎃_Live_Demo-click_here-f35b04?style=for-the-badge&labelColor=3d348b)](https://YOUR-DEMO-URL.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🎃_Live_Demo-click_here-f35b04?style=for-the-badge&labelColor=3d348b)](https://happy-holloween.vercel.app)
 &nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-16-f7b801?style=for-the-badge&labelColor=3d348b)
 ![React](https://img.shields.io/badge/React-19-f18701?style=for-the-badge&labelColor=3d348b)
@@ -20,9 +20,7 @@
 
 ## 🔴 Live Demo
 
-> **👉 [YOUR-DEMO-URL.vercel.app](https://YOUR-DEMO-URL.vercel.app)**
->
-> _Replace the placeholder above with your deployed URL (see [Deploy](#-deploy) below)._
+> **👉 [happy-holloween.vercel.app](https://happy-holloween.vercel.app)**
 
 | Try this                          | What happens                                                   |
 | --------------------------------- | -------------------------------------------------------------- |
@@ -134,7 +132,7 @@ The easiest path is [Vercel](https://vercel.com/new):
 
 1. Push this repo to GitHub.
 2. Import it on Vercel (framework preset: **Next.js**, no extra config needed).
-3. Copy the generated URL into the **Live Demo** badge and link at the top of this README.
+3. Update the **Live Demo** badge and link at the top of this README if your URL changes.
 
 Any host that supports Next.js (Netlify, Cloudflare Pages, a Node server via `npm run start`) works too.
 
